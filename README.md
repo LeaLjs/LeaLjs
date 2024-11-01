@@ -5,7 +5,7 @@
 
 - ## Linguagens Preferidas:
 
-![](	https://github-readme-stats.vercel.app/api?username={LeaLjs}&theme=blue-green)
+![](	https://github-readme-stats.vercel.app/api?username={D.Leal}&theme=blue-green)
 <!---
 LeaLjs/LeaLjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
